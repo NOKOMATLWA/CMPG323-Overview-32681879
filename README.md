@@ -13,7 +13,7 @@ I believe there is going to be a lot of information that is going to be added on
 ## Storage of credentials and sensitive information
 I am planning to add the sensitive information and credentials on a .gitignore file so that it is not easily accessible
 ## References
-https://www.flagship.io/git-branching-strategies/
-https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/
+- [Help-Branching Strategy](https://www.flagship.io/git-branching-strategies/)
+- [Help-.gitignore](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/)
 
 
