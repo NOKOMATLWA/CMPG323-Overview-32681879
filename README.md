@@ -7,7 +7,7 @@ As far as it stands,i have decided that i will be creating new repository for ea
 - Project5
 ## Diagram for repo and project integration
 ## Branching strategy
-As far as the branching strategy is concerned,i will be  using the Github Flow strategy where i believe that i will be using "main" and "develop" as the primary branches. There will be merging and pull request as i go to maintain the flow of the project.
+As far as the branching strategy is concerned,i will be  using the Git Flow strategy where i believe that i will be using "main" and "develop" as the primary branches and will add other branches if neeeded(Feature,Release and Hotfix). There will be merging and pull request as i go to maintain the flow of all the projects.
 ## Use of .gitignore file
 I believe there is going to be a lot of information that is going to be added on my profile so i will be adding a .gitignore file to the projects that may need it.   
 ## Storage of credentials and sensitive information
