@@ -10,6 +10,9 @@ As far as it stands,i have decided that i will be creating new repository for ea
 Since the repositories are going to be linked to Kanban project so the diagram to show the integration is as follows...
 ![image](https://user-images.githubusercontent.com/110294576/185253410-d4f297aa-0dd8-46d5-9153-877fdc40124c.png)
 
+![image](https://user-images.githubusercontent.com/110294576/185379391-695dba37-2006-4e05-ac52-172e7cd554d4.png)
+
+
 ## Branching strategy
 As far as the branching strategy is concerned,i will be  using the Git Flow strategy where i believe that i will be using "main" and "develop" as the primary branches and will add other branches if neeeded(Feature,Release and Hotfix). There will be merging and pull request as i go to maintain the flow of all the projects.
 ## Use of .gitignore file
