@@ -21,7 +21,12 @@ I believe there is going to be a lot of information that is going to be added on
 I am planning to add the sensitive information and credentials on a .gitignore file so that it is not easily accessible
 
 ## Charts for Project 1
+# By Label Chart
 ![image](https://user-images.githubusercontent.com/110294576/187910046-ae1f64fe-f329-4cb3-a9e7-9019fc72cd5b.png)
+# Burndown Chart
+![image](https://user-images.githubusercontent.com/110294576/187910461-2b269ce0-1d5a-41f4-98bc-02e0761ea345.png)
+# By Status chart
+# By Sprint
 
 ## References
 - [Help-Branching Strategy](https://www.flagship.io/git-branching-strategies/)
