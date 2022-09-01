@@ -19,6 +19,10 @@ As far as the branching strategy is concerned,i will be  using the Git Flow stra
 I believe there is going to be a lot of information that is going to be added on my profile so i will be adding a .gitignore file to all the projects to manage the access github have.
 ## Storage of credentials and sensitive information
 I am planning to add the sensitive information and credentials on a .gitignore file so that it is not easily accessible
+
+## Charts for Project 1
+![image](https://user-images.githubusercontent.com/110294576/187910046-ae1f64fe-f329-4cb3-a9e7-9019fc72cd5b.png)
+
 ## References
 - [Help-Branching Strategy](https://www.flagship.io/git-branching-strategies/)
 - [Help-.gitignore](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/)
