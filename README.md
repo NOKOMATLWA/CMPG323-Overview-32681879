@@ -27,6 +27,8 @@ I am planning to add the sensitive information and credentials on a .gitignore f
 ![image](https://user-images.githubusercontent.com/110294576/187910461-2b269ce0-1d5a-41f4-98bc-02e0761ea345.png)
 # By Status chart
 # By Sprint
+![image](https://user-images.githubusercontent.com/110294576/187910943-8f27b9be-a517-490e-bb3f-2a0c70ee40e1.png)
+
 
 ## References
 - [Help-Branching Strategy](https://www.flagship.io/git-branching-strategies/)
