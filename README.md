@@ -31,8 +31,23 @@ I am planning to add the sensitive information and credentials on a .gitignore f
 ![image](https://user-images.githubusercontent.com/110294576/187910943-8f27b9be-a517-490e-bb3f-2a0c70ee40e1.png)
 
 
-## References
+## References for Project 1
 - [Help-Branching Strategy](https://www.flagship.io/git-branching-strategies/)
 - [Help-.gitignore](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/)
+
+# Project2-API Development
+## [Link to Project2 Repository](github.com/NOKOMATLWA/CMPG323-Project2-32681879.git)
+## Project Description
+-As part of this project, i will be creating a CRUD (CREATE, READ,UPDATE and DELETE) RESTful API that will connect to a provided database storing the IoT device data. The API should contain at least one get, post, patch and delete method per resource – aligning to the project's requirements. The RESTful API architecture has several endpoints called over HTTP, invoking application code to update a database.  
+- As it was stated in the README file of the project,i am going to be developing an API which i will be using different factors into making sure that it is fully deployed. For me to kickstart the whole project,i had to familiarize myself with the programs that were to be used and that includes getting access to Azure and installing Visual Studio,installing the Microsoft Entity Framework packages and the utilization of Swagger.
+- I created the Azure resource group to store all the services that i will be using under the portal (that being the server for my database and the database itself)
+## Project Operation
+## Project2 Progress
+- [x] Prepare the data source
+- [ ] Project Setup
+- [ ] Functionality
+- [ ] Project Close-out
+
+## Challenges,Lessons and Reflections
 
 
