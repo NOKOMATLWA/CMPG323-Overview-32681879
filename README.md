@@ -42,11 +42,30 @@ I am planning to add the sensitive information and credentials on a .gitignore f
 - As it was stated in the README file of the project,i am going to be developing an API which i will be using different factors into making sure that it is fully deployed. For me to kickstart the whole project,i had to familiarize myself with the programs that were to be used and that includes getting access to Azure and installing Visual Studio,installing the Microsoft Entity Framework packages and the utilization of Swagger.
 - I created the Azure resource group to store all the services that i will be using under the portal (that being the server for my database and the database itself)
 ## Project Operation
-## Project2 Progress
+## Project2 Progress - first division
 - [x] Prepare the data source
 - [ ] Project Setup
 - [ ] Functionality
 - [ ] Project Close-out
+
+- Project2 Progress-second division
+- [x] Prepare the data source
+- [x] Project Setup
+- [ ] Functionality
+- [ ] Project Close-out
+
+Project2 Progress-third division
+- [x] Prepare the data source
+- [x] Project Setup
+- [x] Functionality
+- [x] Project Close-out
+
+Project2 Progress-final division
+- [x] Prepare the data source
+- [x] Project Setup
+- [x] Functionality
+- [x] Project Close-out
+- [x] Updating README files for both existing Repos
 
 ## Challenges,Lessons and Reflections
 
