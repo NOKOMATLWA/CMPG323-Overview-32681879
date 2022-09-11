@@ -67,7 +67,9 @@ Project2 Progress-final division
 - [x] Project Close-out
 - [x] Updating README files for both existing Repos
 
-## Project 3
+- I was unable to submit due to the slowness of the PC
+
+## Project 3- Standard and Patterns
 
 
 
