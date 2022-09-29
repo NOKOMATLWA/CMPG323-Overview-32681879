@@ -71,6 +71,13 @@ Project2 Progress-final division
 
 ## Project 3- Standard and Patterns
 
+# Description
+- In this following project of the semester,we will be developing a WebApp that will implement the Repository Pattern accross the existing classes.We were provided the fully working project and had to modify accordingly.
+
+- The project will be accessed through the hosted portal being the Azure.
+
+-[Link to Project3 Repository]()
+
 
 
 
