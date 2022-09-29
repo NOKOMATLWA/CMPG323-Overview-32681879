@@ -76,7 +76,22 @@ Project2 Progress-final division
 
 - The project will be accessed through the hosted portal being the Azure.
 
--[Link to Project3 Repository]()
+## Project3 Progress - first division
+- [ ] Project Setup
+- [ ] Design Pattern Implementation
+- [ ] Project Close-out
+
+- Project3 Progress-second division
+- [x] Project Setup
+- [x] Design Pattern Implementation
+- [ ] Project Close-out
+
+Project3 Progress-third division
+- [x] Project Setup
+- [x] Design Pattern Implementation
+- [x] Project Close-out
+
+- [Link to Project3 Repository](https://github.com/NOKOMATLWA/CMPG323-Project3-32681879.git)
 
 
 
