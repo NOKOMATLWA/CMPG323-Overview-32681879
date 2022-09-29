@@ -91,7 +91,7 @@ Project3 Progress-third division
 - [x] Design Pattern Implementation
 - [x] Project Close-out
 
-- [Link to Project3 Repository](https://github.com/NOKOMATLWA/CMPG3323--Project3-32681879.git)
+- [Link to Project3 Repository](https://github.com/NOKOMATLWA/CMPG323-Project3-32681879.git)
 
 
 
