@@ -93,6 +93,11 @@ Project3 Progress-third division
 
 - [Link to Project3 Repository](https://github.com/NOKOMATLWA/CMPG323-Project3-32681879.git)
 
+## Project4 -Testing and RPA
+
+# add details
+# [Link to Project4 Repository](https://github.com/NOKOMATLWA/CMPG323-Project4-32681879.git)
+
 
 
 
