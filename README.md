@@ -69,7 +69,7 @@ Project2 Progress-final division
 
 - I was unable to submit due to the slowness of the PC
 
-## Project 3- Standard and Patterns
+# Project 3- Standard and Patterns
 
 # Description
 - In this following project of the semester,we will be developing a WebApp that will implement the Repository Pattern accross the existing classes.We were provided the fully working project and had to modify accordingly.
@@ -93,10 +93,10 @@ Project3 Progress-third division
 
 - [Link to Project3 Repository](https://github.com/NOKOMATLWA/CMPG323-Project3-32681879.git)
 
-## Project4 -Testing and RPA
+# Project4 -Testing and RPA
 
 # add details
-# [Link to Project4 Repository](https://github.com/NOKOMATLWA/CMPG323-Project4-32681879.git)
+## [Link to Project4 Repository](https://github.com/NOKOMATLWA/CMPG323-Project4-32681879.git)
 
 
 
