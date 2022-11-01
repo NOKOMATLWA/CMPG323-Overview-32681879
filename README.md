@@ -36,7 +36,7 @@ I am planning to add the sensitive information and credentials on a .gitignore f
 - [Help-.gitignore](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/)
 
 # Project2-API Development
-## [Link to Project2 Repository](github.com/NOKOMATLWA/CMPG323-Project2-32681879.git)
+- [Link to Project2 Repository](github.com/NOKOMATLWA/CMPG323-Project2-32681879.git)
 ## Project Description
 -As part of this project, i will be creating a CRUD (CREATE, READ,UPDATE and DELETE) RESTful API that will connect to a provided database storing the IoT device data. The API should contain at least one get, post, patch and delete method per resource – aligning to the project's requirements. The RESTful API architecture has several endpoints called over HTTP, invoking application code to update a database.  
 - As it was stated in the README file of the project,i am going to be developing an API which i will be using different factors into making sure that it is fully deployed. For me to kickstart the whole project,i had to familiarize myself with the programs that were to be used and that includes getting access to Azure and installing Visual Studio,installing the Microsoft Entity Framework packages and the utilization of Swagger.
@@ -93,12 +93,29 @@ Project3 Progress-third division
 
 - [Link to Project3 Repository](https://github.com/NOKOMATLWA/CMPG323-Project3-32681879.git)
 
-# Project4 -Testing and RPA
-
-# This is the project where we will be showcasing the automation functionality using UIPath studio within the provided webapp (Connected Office)
+## Project4 -Testing and RPA
+# Description
+- This is the project where we will be showcasing the automation functionality using UIPath studio within the provided webapp (Connected Office)
 - The webapp was automated to a point where the user will little to no interaction but the robot.
-## [Link to Project4 Repository](https://github.com/NOKOMATLWA/CMPG323-Project4-32681879.git)
+# Feature level for project4
+- [x] GitHub Administration
+- [x] Project Setup
+- [x] User Acceptance Testing
+- [x] Project Close-out
 
+- [Link to Project4 Repository](https://github.com/NOKOMATLWA/CMPG323-Project4-32681879.git)
+
+## Project5 - Reporting and Monitoring
+# Description
+- This is the last project of the semester where will be focusing on the visualization using PowerBI 
+
+# Feature level for project 5
+- [] Project Setup
+- [] Data Connection
+- [] Report Development
+- [] Project Close-out
+
+- [Link to Project5 Repository]()
 
 
 
