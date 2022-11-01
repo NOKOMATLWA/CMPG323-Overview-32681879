@@ -95,7 +95,8 @@ Project3 Progress-third division
 
 # Project4 -Testing and RPA
 
-# add details
+# This is the project where we will be showcasing the automation functionality using UIPath studio within the provided webapp (Connected Office)
+- The webapp was automated to a point where the user will little to no interaction but the robot.
 ## [Link to Project4 Repository](https://github.com/NOKOMATLWA/CMPG323-Project4-32681879.git)
 
 
