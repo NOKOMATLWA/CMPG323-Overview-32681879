@@ -67,7 +67,7 @@ Project2 Progress-final division
 - [x] Project Close-out
 - [x] Updating README files for both existing Repos
 
-- I was unable to submit due to the slowness of the PC
+- I was unable to submit due to poor time management
 
 # Project 3- Standard and Patterns
 
@@ -115,7 +115,7 @@ Project3 Progress-third division
 - [] Report Development
 - [] Project Close-out
 
-- [Link to Project5 Repository]()
+- [Link to Project5 Repository](https://github.com/NOKOMATLWA/CMPG-323-Project-5-32681879.git)
 
 
 
