@@ -111,21 +111,6 @@ Project3 Progress-third division
 
 # Feature level for project 5
 - [x] Project Setup
-- [] Data Connection
-- [] Report Development
-- [] Project Close-out
-
-- [x] Project Setup
-- [x] Data Connection
-- [] Report Development
-- [] Project Close-out
-
-- [x] Project Setup
-- [x] Data Connection
-- [x] Report Development
-- [] Project Close-out
-
-- [x] Project Setup
 - [x] Data Connection
 - [x] Report Development
 - [x] Project Close-out
