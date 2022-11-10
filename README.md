@@ -110,10 +110,25 @@ Project3 Progress-third division
 - This is the last project of the semester where will be focusing on the visualization using PowerBI 
 
 # Feature level for project 5
-- [] Project Setup
+- [x] Project Setup
 - [] Data Connection
 - [] Report Development
 - [] Project Close-out
+
+- [x] Project Setup
+- [x] Data Connection
+- [] Report Development
+- [] Project Close-out
+
+- [x] Project Setup
+- [x] Data Connection
+- [x] Report Development
+- [] Project Close-out
+
+- [x] Project Setup
+- [x] Data Connection
+- [x] Report Development
+- [x] Project Close-out
 
 - [Link to Project5 Repository](https://github.com/NOKOMATLWA/CMPG-323-Project-5-32681879.git)
 
