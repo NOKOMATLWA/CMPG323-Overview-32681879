@@ -117,6 +117,12 @@ Project3 Progress-third division
 
 - [Link to Project5 Repository](https://github.com/NOKOMATLWA/CMPG-323-Project-5-32681879.git)
 
+# Portfolio of Evidence
+## A piece of work that we had to do so that we can sort of sum up the whole experience and reflect on what went wrong and right and the lessons we got from doing semester long projects.
+
+## The PoE will be submitted on the 18/November/2022 as an alternate of the exam
+
+
 
 
 
